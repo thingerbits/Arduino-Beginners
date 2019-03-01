@@ -1,3 +1,11 @@
+/*
+  Sketch 3.1.2
+  LED bar graph Display
+
+  modified 2018/5/13
+  by http://www.thingerbits.com
+*/
+
 const int ledCount = 10;    // the number of LEDs in the bar graph
 
 // an array of pin numbers to which LEDs are attached
